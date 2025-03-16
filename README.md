@@ -6,7 +6,7 @@ This project focuses on data preprocessing of a customer transaction dataset for
 
 ## Report
 
-Link to the [Report](https://docs.google.com/document/d/1x2WfP85AEzbyQqPCoFZGK-1nlHzlWKjc59nc8sFLIF8/edit?usp=sharing). This report explains the steps taken in preprocessing and key insights found during the preprocessing.
+Link to the [Report](https://drive.google.com/file/d/132jvOXFQLUNlty9EXCABNvpAP8glXYT7/view?usp=sharing). This report explains the steps taken in preprocessing and key insights found during the preprocessing.
 
 ## Project Installation
 To try it out on you own follow the following steps:
@@ -35,7 +35,9 @@ install dependencies
 pip install -r requirements.txt
 ```
 
+## Video Presentation
 
+[Link to video presentation](https://drive.google.com/file/d/1BsEUCJPEV6mFtxAxg-SXPMCpxO_Xk-in/view?usp=sharing)
 
 ## Contributors
 
