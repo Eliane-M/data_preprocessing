@@ -19,7 +19,7 @@ git clone https://github.com/Eliane-M/data_preprocessing.git
 cd data_preprocessing
 ```
 
-create a virtual environment and activate it
+- create a virtual environment and activate it
 
 ```
 python -m venv venv
@@ -29,11 +29,14 @@ python -m venv venv
 source venv/Scripts/activate
 ```
 
-install dependencies
+- Install dependencies
 
 ```
 pip install -r requirements.txt
 ```
+
+- Run the notebook `data_preprocessing_assignment.ipynb` and the data will be saved in the respective dataset folders
+
 
 ## Video Presentation
 
